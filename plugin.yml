@@ -1,0 +1,9 @@
+name: Redeem
+version: 1.0.0
+main: Redeem\Main
+api: 4.0.0
+author: suitshift
+commands:
+  code:
+    description: Canjea un código y recibe recompensas únicas.
+    usage: "/code <código>"
